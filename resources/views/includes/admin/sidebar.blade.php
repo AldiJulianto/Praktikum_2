@@ -35,6 +35,13 @@
               <p>Table List</p>
             </a>
           </li>
+          <li>
+            <a href="/list-article">
+              <i class="nc-icon nc-tile-56"></i>
+              <p>Article</p>
+            </a>
+          </li>
+
 
         </ul>
       </div>
